@@ -34,6 +34,7 @@ Session: -
 1) OneToOne
 2) OneToMany
 3) ManyToOne
+4) ManyToMany
 
 # FETCH TYPE
 1) lazy - fetch on demand
